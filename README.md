@@ -4,5 +4,5 @@
 
 2) Bookmarklet:
 
-[http://valievkarim.github.io/sysvk/]
+http://valievkarim.github.io/sysvk/
 
